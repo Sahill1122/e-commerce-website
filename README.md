@@ -1,19 +1,49 @@
-# E-Commerce Website
+# 🛒 E-Commerce Website
 
-A responsive E-Commerce website developed with HTML, CSS, and JavaScript.
+A modern, responsive E-Commerce website built using HTML5, CSS3, and JavaScript. The project features a clean user interface, responsive design, and interactive components to provide a seamless shopping experience across desktop and mobile devices.
 
-## Features
-- Responsive Design
-- Product Listings
-- Image Slider
-- Search Bar
-- Mobile-Friendly Layout
-- Interactive Navigation Menu
+## 🚀 Live Demo
 
-## Technologies Used
+🔗 **Website:** https://e-commerce-website-seven-green-28.vercel.app/
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/yourusername/ecommerce-website
+
+## ✨ Features
+
+- Responsive design for all screen sizes
+- Interactive navigation menu
+- Product listings with modern card layout
+- Image slider/banner
+- Search bar for products
+- Smooth animations and hover effects
+- Mobile-friendly interface
+
+## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 
-## Author
-Sahil Chauhan
+## 📸 Screenshots
+
+_Add screenshots of your homepage and product section here._
+
+## 📁 Project Structure
+
+```
+E-Commerce-Website/
+│── index.html
+│── css/
+│── js/
+│── images/
+└── README.md
+```
+
+## 👨‍💻 Author
+
+**Sahil Chauhan**
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
