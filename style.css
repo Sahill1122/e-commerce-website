@@ -20,7 +20,7 @@ header {
   font-weight: 800;
 }
 .logo a:hover {
-  color: rgb(240, 197, 6);
+  color: rgb(82, 0, 163);
   transition-duration: 1s;
 }
 .heading ul li {
@@ -41,7 +41,7 @@ header {
   color: red;
 }
 .heading ul li a:hover {
-  color: rgb(243, 168, 7);
+  color: rgb(28, 0, 163);
   transition-duration: 1s;
 }
 
@@ -64,8 +64,14 @@ header {
   height: 30px;
   width: 300px;
   text-decoration: none;
+  padding: 5px 15px;
+  border-radius: 25px;
   border: 0px;
   padding: 5px;
+  outline: none;
+  padding-left: 35px;
+  font-size: 15px;
+  
 }
 .logo a {
   color: white;
@@ -91,7 +97,7 @@ header a ion-icon {
 }
 
 .img-slider img {
-  height: 720px;
+  height: 650px;
   width: 1080px;
 }
 @keyframes slide {
@@ -148,12 +154,19 @@ header a ion-icon {
   opacity: 0;
 }
 .search {
-  display: flex;
-  position: relative;
+    display: flex;
+    align-items: center;
+    width: 340px;
+    height: 45px;
+    background: white;
+    border-radius: 50px;
+    overflow: hidden;
 }
 .section1 {
-  width: 1080px;
+  width: 1500px;
   overflow: hidden;
+  border-radius: 16px 16px 16px 16px;
+  padding-top: 15px;;
 
   justify-content: center;
   align-items: center;
@@ -178,7 +191,7 @@ header a ion-icon {
 }
 .section2 .container .items .name {
   text-align: center;
-  background-color: rgb(240, 197, 6);
+  background-color: rgb(10, 11, 11);
   height: 25px;
   padding-top: 4px;
   color: white;
@@ -189,12 +202,12 @@ header a ion-icon {
   padding-left: 10px;
   display: block;
   width: 100%;
-  color: rgb(255, 0, 0);
+  color: rgb(16, 12, 12);
   font-weight: 650;
 }
 .section2 .container .items .info {
   padding-left: 10px;
-  color: rgb(243, 168, 7);
+  color: rgb(9, 9, 8);
 }
 .section2 .container .items .img img {
   width: 200px;
