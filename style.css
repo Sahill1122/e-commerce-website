@@ -138,6 +138,21 @@ header a ion-icon {
     left: 0px;
   }
 }
+.cart-btn {
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #0b294d;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.cart-btn:hover {
+    background-color: #123d70;
+}
 .rating {
     padding-left: 10px;
     margin-top: 8px;
